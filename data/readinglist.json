@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"4.7.9","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"assignment5"},
+{"type":"table","name":"readinglist","database":"assignment5","data":
+[
+{"ID":"1","theDate":"2018-04-23 13:48:45","name":"JSON Examples","URL":"http:\/\/json.org\/example.html","theDesc":"Some nice JSON examples from the official resource json.org"},
+{"ID":"2","theDate":"2018-04-23 13:49:59","name":"W3Schools HTML Tutorial","URL":"https:\/\/www.w3schools.com\/html\/default.asp","theDesc":"This tutorial teaches you everything about HTML."},
+{"ID":"3","theDate":"2018-04-23 13:53:07","name":"TrinityTuts RESTful Web Services","URL":"https:\/\/trinitytuts.com\/restful-web-services-with-php-mysqli\/","theDesc":"Explains how to build a web service with PHP Mysqli"},
+{"ID":"4","theDate":"2018-04-23 13:58:42","name":"JavaScript Cookies Tutorial","URL":"https:\/\/www.w3schools.com\/js\/js_cookies.asp","theDesc":"Gives examples on how to use cookies"},
+{"ID":"5","theDate":"2018-04-23 14:01:06","name":"LeaseWeb - REST API in PHP","URL":"https:\/\/www.leaseweb.com\/labs\/2015\/10\/creating-a-simple-rest-api-in-php\/","theDesc":" A sample 65 line PHP RESTful service"}
+]
+}
+]
